@@ -1,0 +1,141 @@
+{
+  "modal": {
+    "save": {
+      "title": "Uložit Konfigurace",
+      "description": "Vše co máš na sobě se uloží"
+    },
+    "exit": {
+      "title": "Odejit z Skin Menu",
+      "description": "Nic se neuloží !"
+    },
+    "accept": "Ano",
+    "decline": "Ne"
+  },
+  "ped": {
+    "title": "👦 Ped",
+    "model": "Model"
+  },
+  "headBlend": {
+    "title": "👴 Dědictví",
+    "shape": {
+      "title": "Tvář",
+      "firstOption": "👨 Otec",
+      "secondOption": "🤱 Matka",
+      "mix": "Mix"
+    },
+    "skin": {
+      "title": "Plet",
+      "firstOption": "👨 Otec",
+      "secondOption": "🤱 Matka",
+      "mix": "Mix"
+    }
+  },
+  "faceFeatures": {
+    "title": "😜 Vlastnosti obličeje",
+    "nose": {
+      "title": "Nos",
+      "width": "Šírka",
+      "height": "Výška",
+      "size": "Velikost",
+      "boneHeight": "Výška kosti",
+      "boneTwist": "Zkroucení kosti",
+      "peakHeight": "Vrcholová výška"
+    },
+    "eyebrows": {
+      "title": "Obočí",
+      "height": "Výška",
+      "depth": "Hloubka"
+    },
+    "cheeks": {
+      "title": "Tváře",
+      "boneHeight": "Výška kosti",
+      "boneWidth": "Šířka kosti",
+      "width": "Šířka"
+    },
+    "eyesAndMouth": {
+      "title": "Oči a Pusa",
+      "eyesOpening": "Otevření očí",
+      "lipsThickness": "Tloušťka rtů"
+    },
+    "jaw": {
+      "title": "Čelisti",
+      "width": "Šířka",
+      "size": "Velikost"
+    },
+    "chin": {
+      "title": "Chin",
+      "lowering": "Snížení",
+      "length": "Délka",
+      "size": "Velikost",
+      "hole": "Velikost otvoru"
+    },
+    "neck": {
+      "title": "Krk",
+      "thickness": "Tlouštka"
+    }
+  },
+  "headOverlays": {
+    "title": "👀 Vzhled",
+    "hair": {
+      "title": "Vlasy",
+      "style": "Styl",
+      "color": "Barva",
+      "highlight": "Zvýraznění", 
+      "fade": "Fade"
+    },
+    "opacity": "Nepruhlednost",
+    "style": "Styl",
+    "color": "Barva",
+    "blemishes": "Vady",
+    "beard": "Vousy",
+    "eyebrows": "Obočí",
+    "ageing": "Stárnuti",
+    "makeUp": "Make up",
+    "blush": "Blush",
+    "complexion": "Plet",
+    "sunDamage": "Poškození sluncem",
+    "lipstick": "Rtěnka",
+    "moleAndFreckles": "Pihy",
+    "chestHair": "Chlupy na hrudi",
+    "bodyBlemishes": "Vady na těle",
+    "eyeColor": "Barva Očí"
+  },
+  "components": {
+    "title": "👖👕 Oblečení",
+    "drawable": "Typ",
+    "texture": "🎨 Barva",
+    "mask": "🎭 Maska",
+    "upperBody": "✋🧤 Ruce",
+    "lowerBody": "👖 Kalhoty",
+    "bags": "🎒 Batohy a Padáky",
+    "shoes": "👟 Boty",
+    "scarfAndChains": "⛓️ Řetězy",
+    "shirt": "👕 Triko",
+    "bodyArmor": "🦺 Vesty",
+    "decals": "👜 Doplnky",
+    "jackets": "🧥 Torzo"
+  },
+  "props": {
+    "title": "👓⛓️ Doplnky",
+    "drawable": "Typ",
+    "texture": "🎨 Barva",
+    "hats": "🧢 Čepice a Helmy",
+    "glasses": "👓 Brýle",
+    "ear": "👂🏼 Ušní doplnky",
+    "watches": "⌚ Hodinky",
+    "bracelets": "📿 Náramky"
+  }, 
+  "tattoos": {
+    "title": "💉 Tetování",
+    "items": {
+      "ZONE_TORSO": "Torso",
+      "ZONE_HEAD": "Hlava",
+      "ZONE_LEFT_ARM": "Levé Rameno",
+      "ZONE_RIGHT_ARM": "Pravá Ruka",
+      "ZONE_LEFT_LEG": "Levá Noha",
+      "ZONE_RIGHT_LEG": "Pravá Noha"
+    },
+    "apply": "Potvrdit", 
+    "delete": "Smazat"
+  }
+}
